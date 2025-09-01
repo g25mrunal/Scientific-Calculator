@@ -11,7 +11,16 @@ Features
 - ✅ Logarithmic calculation (`log`)  
 - ✅ Clear & Reset functionality (AC button)  
 - ✅ GUI built with **Swing** and **AWT**  
-- ✅ Event-driven programming  
+- ✅ Event-driven programming
+
+How to Run
+```bash
+Compile:
+javac ScientificCalculator.java
+
+Run:
+java ScientificCalculator
+
 
 GUI 
 
@@ -29,6 +38,13 @@ Software:
 - Java JDK (8 or above recommended)  
 - Windows 10 or above (works on Linux/Mac as well)  
 - **Technology:** Swing, AWT, Event Handling  
-- **Environment:** Command Prompt, VS Code (or any Java IDE)  
+- **Environment:** Command Prompt, VS Code (or any Java IDE)
+
+Project Structure
+
+- `ScientificCalculator.java` – main Java source containing GUI logic and event handling.
+- `README.md` – project overview and documentation.
+- `screenshots/` – GUI preview images.
+
 
 ## 📂 Project Structure
