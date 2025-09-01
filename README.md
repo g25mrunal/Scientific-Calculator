@@ -40,11 +40,3 @@ Software:
 - **Technology:** Swing, AWT, Event Handling  
 - **Environment:** Command Prompt, VS Code (or any Java IDE)
 
-Project Structure
-
-- `ScientificCalculator.java` – main Java source containing GUI logic and event handling.
-- `README.md` – project overview and documentation.
-- `screenshots/` – GUI preview images.
-
-
-## 📂 Project Structure
