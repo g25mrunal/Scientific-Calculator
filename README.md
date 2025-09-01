@@ -37,6 +37,6 @@ Hardware:
 Software:
 - Java JDK (8 or above recommended)  
 - Windows 10 or above (works on Linux/Mac as well)  
-- **Technology:** Swing, AWT, Event Handling  
-- **Environment:** Command Prompt, VS Code (or any Java IDE)
+- Technology: Swing, AWT, Event Handling  
+- Environment: Command Prompt, VS Code (or any Java IDE)
 
