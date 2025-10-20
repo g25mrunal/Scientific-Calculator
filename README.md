@@ -5,13 +5,13 @@ It supports basic arithmetic operations and scientific functions such as `sin`, 
 
 
 Features
-- ✅ Addition, Subtraction, Multiplication, Division  
-- ✅ Square root calculation  
-- ✅ Trigonometric functions (`sin`, `cos`, `tan`)  
-- ✅ Logarithmic calculation (`log`)  
-- ✅ Clear & Reset functionality (AC button)  
-- ✅ GUI built with **Swing** and **AWT**  
-- ✅ Event-driven programming
+- Addition, Subtraction, Multiplication, Division  
+- Square root calculation  
+- Trigonometric functions (`sin`, `cos`, `tan`)  
+- Logarithmic calculation (`log`)  
+- Clear & Reset functionality (AC button)  
+- GUI built with **Swing** and **AWT**  
+- Event-driven programming
 
 How to Run
 ```bash
